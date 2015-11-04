@@ -1,0 +1,21 @@
+
+body {
++  background: red;
++}
++
++p {
++  color: orange;
++}
++
++div {
++  border: 1px solid black;
++}
++
++.mammals {
++	color: red
+
+  .birds{
+  color: blue
+}
+
++```
